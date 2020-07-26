@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['qr_5falgorithm_2429',['qr_algorithm',['../d2/d3b/namespaceqr__algorithm.html',1,'']]]
+  ['data_5fstructure_2490',['data_structure',['../d1/db4/namespacedata__structure.html',1,'']]]
 ];
